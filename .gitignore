@@ -1,4 +1,2 @@
-test1/
-test.txt
-test.txt1
-test.nano
+*.txt
+!test2/*
